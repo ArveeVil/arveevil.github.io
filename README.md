@@ -57,7 +57,7 @@ body {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 108px;
+  padding: 14px 80px;
   text-decoration: none;
 }
 
@@ -345,7 +345,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 <br>
 </div>
-</body>
-</html>
+
 
 
