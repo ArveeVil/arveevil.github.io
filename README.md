@@ -289,8 +289,8 @@ Because of the course being online, there are some areas, specially hands-on one
       <h3>Primary Choice: Pragmatist Style <br> Secondary Choice: Reflector Style</h3>
       <hr>
       <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br><br>
-      <img src="Test2A.png" style="width:515px;height:230px;"><br>
-      <img src="Test2B.png" style="width:515px;height:230px;"><br>
+      <img src="Test2A.png" style="width:515px;height:230px;"><br><br>
+      <img src="Test2B.png" style="width:515px;height:230px;"><br><br>
     </div>
     </div>
 
@@ -316,8 +316,8 @@ Because of the course being online, there are some areas, specially hands-on one
       <h2>Creativity Test</h2>
       <h3>The result is under the 59-80 range with 64 points</h3>
       <hr><br>
-      <img src="Test3A.png"><br><br>
-      <img src="Test3B.PNG"><br><br>
+      <img src="Test3A.png" width="500" height="300"><br><br>
+      <img src="Test3B.PNG" width="500" height="300"><br><br>
     </div>
     </div>
     <div class="row">
