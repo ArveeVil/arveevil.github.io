@@ -4,9 +4,112 @@
 <title>Arvee's e-Portfolio</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<link rel="stylesheet" type = "text/css" href="style.css">
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 330px; /* Should be removed. Only for demonstration */
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  padding: 10px;
+  background: #335384;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+
+.header h1 {
+  font-size: 50px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #38b6ff;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 108px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #5ba7d1;
+  color: black;
+}
+
+.leftcolumn {   
+  float: left;
+  width: 25%;
+  background-color: #335384;
+  padding-right: 20px;
+}
+
+.rightcolumn {
+  float: right;
+  width: 75%;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
 </style>
-</head>
 <body>
 	
 <div class="header">
