@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -57,7 +56,7 @@ body {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 65px;
+  padding: 14px 45px;
   text-decoration: none;
 }
 
