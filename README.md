@@ -286,9 +286,9 @@ Because of the course being online, there are some areas, specially hands-on one
      <div class="rightcolumn">
      <div class="card">
       <h2>Learning-Style Test</h2>
-      <h3>Primary: Pragmatist + Secondary: Reflector</h3>
+      <h3>Primary Choice: Pragmatist Style <br> Secondary Choice: Reflector Style</h3>
       <hr>
-      <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br>
+      <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br><br>
       <img src="Test2A.png" style="width:515px;height:230px;"><br>
       <img src="Test2B.png" style="width:515px;height:230px;"><br>
     </div>
@@ -304,11 +304,11 @@ Because of the course being online, there are some areas, specially hands-on one
     
 <div class="card">
       <h2>Test Website Links</h2>
-      <hr><h3>Personality-Type Site</h3>
+      <hr><strong>Personality-Type Site</strong>
       <a href="https://www.16personalities.com/">Visit 16 Personalities Website</a>
-      <h3>Learning-Type Site</h3>
+      <strong>Learning-Type Site</strong>
       <a href="emtrain.eu/learning-styles">Visit Emtrain's Learning Style Quiz</a>
-      <h3>Creative-Type Site</h3>
+      <strong>Creative-Type Site</strong>
       <a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">Visit Mindtools' Creativity Quiz</a>
     </div>
     </div></div> 
