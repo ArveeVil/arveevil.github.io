@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 
@@ -324,7 +323,7 @@ Because of the course being online, there are some areas, specially hands-on one
       <h2>Learning-Style Test</h2>
       <h3>Primary: Pragmatist + Secondary: Reflector</h3>
       <hr>
-      <img src="Test2C.png" style="width:630px;height:320px;"><br><br>
+      <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br>
       <img src="Test2A.png" style="width:900px;height:430px;"><br>
       <img src="Test2B.png" style="width:900px;height:430px;"><br>
     </div>
