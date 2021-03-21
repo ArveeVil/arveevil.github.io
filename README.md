@@ -57,7 +57,7 @@ body {
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 80px;
+  padding: 14px 65px;
   text-decoration: none;
 }
 
