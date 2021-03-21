@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 <title>Arvee's e-Portfolio</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -29,8 +28,7 @@
 
 <div class="main" id="section1">
 <div class="row">
-  <div class="leftcolumn">
-    
+  <div class="leftcolumn">	 
       <div class="card">
       <h2>Past Education</h2><hr><br>
       <strong>Student Number</strong>
@@ -41,10 +39,7 @@
       <p>https://github.com/ArveeVil</p>      
       <strong>Phone Number</strong>
       <p>+61422561772</p>
-      <strong>Subject Course</strong>
-      <p>Introduction to I.T.</p>
     </div>
-    
       <div class="card">
       <h2>My Details</h2>
 <hr>
@@ -64,10 +59,6 @@ Goulburn Valley Institute of TAFE<br> (2018-2020)<br>
 (Cyber Security Tafe Course)
       </strong>
 <hr>
-      <strong>
-RMIT University<br>
-(2021-Present)<br>(Information to I.T.)
-      </strong>
 <hr>
     </div>
    </div>
@@ -133,7 +124,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 
   <div class="leftcolumn">
-    
       <div class="card">
       <h2>Key Skills</h2><hr><br>
       <strong>Project Management</strong>
@@ -150,14 +140,7 @@ Because of the course being online, there are some areas, specially hands-on one
       <p>★★★☆</p>
       <strong>Leadership</strong>
       <p>★★★☆</p>
-      <strong>Process Improvement</strong>
-      <p>★★★☆</p>
-      <strong>Cooperativeness</strong>
-      <p>★★★★</p>
-      <strong>Perseverance and Motivation</strong>
-      <p>★★★☆</p>
     </div>
-    
       <div class="card">
 <p>This position clearly states that it needs skills,  experience and qualifications. Experience in producing audio and video content, skills in commercial, industry, or academic creative production environments, with demonstrable competencies in OES preferred products and technologies, and qualification in media production and market readiness with an eLearning/academic focus.</p>
 <hr>
@@ -186,17 +169,15 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 
   <div class="leftcolumn">
-    
       <div class="card">
       <h2>Myers Briggs Type Indicator</h2>
-      <h3>My personality type is Advocate (INFG-T)</h3>
+      <h3>My result was Advocate (INFG-T)</h3>
       <hr><br><br>
-      <img src="Test1.png" width="270" height="754"><br>
+      <img src="Test1.png" width="170" height="754"><br>
     </div>
-    
 <div class="card">
       <h2>Test Website Links</h2>
-      <hr><h3>Personality-Type Site</h3>
+      <h3>Personality-Type Site</h3>
       <a href="https://www.16personalities.com/">Visit 16 Personalities Website</a>
       <h3>Learning-Type Site</h3>
       <a href="emtrain.eu/learning-styles">Visit Emtrain's Learning Style Quiz</a>
@@ -204,7 +185,6 @@ Because of the course being online, there are some areas, specially hands-on one
       <a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">Visit Mindtools' Creativity Quiz</a>
     </div>
     </div></div> 
-     
     <div class="card">
       <h2>Creativity Test</h2>
       <h3>The result is under the 59-80 range with 64 points</h3>
@@ -213,11 +193,9 @@ Because of the course being online, there are some areas, specially hands-on one
       <img src="Test3B.PNG"><br>
     </div>
     </div>
-
     <div class="row">
     <div class="card">
-      <h2>The Results</h2><hr><br>
-      
+      <h2>The Results</h2><hr><br>    
       <strong>What the results mean for me?</strong>
       <p>It means that I can be relatively unique since in the first test, it is considered to be rarest as an Advocate. One of the major factor for this is my combination of personality traits that makes them complex and quite versatile. Based on the other tests as well, my strengths comes passionately hard from creativity, imagination and sensitivity, which I truly believe I possess, that made it even better, as this will become useful for my ideal job in the future. However, I should note that I should be careful at times because being able to think in abstract doesn't mean I can use it in concretely real life.</p>
       <strong>Results influencing my behaviour in a team:</strong>
@@ -227,9 +205,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
     </div>
 <br>
-
-
-
 <hr>
 <div class="main" id="section5">
     <div class="row">
@@ -240,7 +215,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 <br>
 </div>
-
 </body>
 </html>
 
