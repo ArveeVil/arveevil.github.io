@@ -132,25 +132,6 @@ html {
   scroll-behavior: smooth;
 }
 
-#section1 {
-
-}
-
-#section2 {
-
-}
-
-#section3 {
-
-}
-
-#section4 {
-
-}
-
-#section5 {
-
-}
 </style>
 </head>
 
@@ -175,7 +156,6 @@ html {
 <div class="main" id="section1">
 <div class="row">
   <div class="leftcolumn">
-    
       <div class="card">
       <h2>Past Education</h2><hr><br>
       <strong>Student Number</strong>
@@ -186,10 +166,7 @@ html {
       <p>https://github.com/ArveeVil</p>      
       <strong>Phone Number</strong>
       <p>+61422561772</p>
-      <strong>Subject Course</strong>
-      <p>Introduction to I.T.</p>
     </div>
-    
       <div class="card">
       <h2>My Details</h2>
 <hr>
@@ -207,11 +184,6 @@ Wellington Secondary College<br>
       <strong>
 Goulburn Valley Institute of TAFE<br> (2018-2020)<br>
 (Cyber Security Tafe Course)
-      </strong>
-<hr>
-      <strong>
-RMIT University<br>
-(2021-Present)<br>(Information to I.T.)
       </strong>
 <hr>
     </div>
@@ -278,7 +250,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 
   <div class="leftcolumn">
-    
       <div class="card">
       <h2>Key Skills</h2><hr><br>
       <strong>Project Management</strong>
@@ -295,14 +266,7 @@ Because of the course being online, there are some areas, specially hands-on one
       <p>★★★☆</p>
       <strong>Leadership</strong>
       <p>★★★☆</p>
-      <strong>Process Improvement</strong>
-      <p>★★★☆</p>
-      <strong>Cooperativeness</strong>
-      <p>★★★★</p>
-      <strong>Perseverance and Motivation</strong>
-      <p>★★★☆</p>
     </div>
-    
       <div class="card">
 <p>This position clearly states that it needs skills,  experience and qualifications. Experience in producing audio and video content, skills in commercial, industry, or academic creative production environments, with demonstrable competencies in OES preferred products and technologies, and qualification in media production and market readiness with an eLearning/academic focus.</p>
 <hr>
@@ -324,14 +288,13 @@ Because of the course being online, there are some areas, specially hands-on one
       <h2>Learning-Style Test</h2>
       <h3>Primary: Pragmatist + Secondary: Reflector</h3>
       <hr>
-      <img src="Test2C.png" style="width:630px;height:320px;"><br><br>
+      <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br>
       <img src="Test2A.png" style="width:900px;height:430px;"><br>
       <img src="Test2B.png" style="width:900px;height:430px;"><br>
     </div>
     </div>
 
   <div class="leftcolumn">
-    
       <div class="card">
       <h2>Myers Briggs Type Indicator</h2>
       <h3>My personality type is Advocate (INFG-T)</h3>
@@ -349,20 +312,17 @@ Because of the course being online, there are some areas, specially hands-on one
       <a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">Visit Mindtools' Creativity Quiz</a>
     </div>
     </div></div> 
-     
     <div class="card">
       <h2>Creativity Test</h2>
       <h3>The result is under the 59-80 range with 64 points</h3>
       <hr><br>
       <img src="Test3A.png"><br>
-      <img src="Test3B.png"><br>
+      <img src="Test3B.PNG"><br>
     </div>
     </div>
-
     <div class="row">
     <div class="card">
       <h2>The Results</h2><hr><br>
-      
       <strong>What the results mean for me?</strong>
       <p>It means that I can be relatively unique since in the first test, it is considered to be rarest as an Advocate. One of the major factor for this is my combination of personality traits that makes them complex and quite versatile. Based on the other tests as well, my strengths comes passionately hard from creativity, imagination and sensitivity, which I truly believe I possess, that made it even better, as this will become useful for my ideal job in the future. However, I should note that I should be careful at times because being able to think in abstract doesn't mean I can use it in concretely real life.</p>
       <strong>Results influencing my behaviour in a team:</strong>
@@ -385,7 +345,6 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
 <br>
 </div>
-
 </body>
 </html>
 
