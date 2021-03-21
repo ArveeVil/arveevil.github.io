@@ -289,16 +289,16 @@ Because of the course being online, there are some areas, specially hands-on one
       <h3>Primary: Pragmatist + Secondary: Reflector</h3>
       <hr>
       <img src="Test2C.PNG" style="width:630px;height:320px;"><br><br>
-      <img src="Test2A.png" style="width:900px;height:430px;"><br>
-      <img src="Test2B.png" style="width:900px;height:430px;"><br>
+      <img src="Test2A.png" style="width:515px;height:230px;"><br>
+      <img src="Test2B.png" style="width:515px;height:230px;"><br>
     </div>
     </div>
 
   <div class="leftcolumn">
       <div class="card">
-      <h2>Myers Briggs Type Indicator</h2>
-      <h3>My result is Advocate (INFG-T)</h3>
-      <hr><br><br>
+      <h2>Myers-Briggs Type Indicator</h2>
+      <h3>My result is Advocate</h3>
+      <hr><br>
       <img src="Test1.png" width="270" height="350"><br>
     </div>
     
@@ -316,8 +316,8 @@ Because of the course being online, there are some areas, specially hands-on one
       <h2>Creativity Test</h2>
       <h3>The result is under the 59-80 range with 64 points</h3>
       <hr><br>
-      <img src="Test3A.png"><br>
-      <img src="Test3B.PNG"><br>
+      <img src="Test3A.png"><br><br>
+      <img src="Test3B.PNG"><br><br>
     </div>
     </div>
     <div class="row">
