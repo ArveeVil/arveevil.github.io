@@ -354,7 +354,7 @@ Because of the course being online, there are some areas, specially hands-on one
       <h3>The result is under the 59-80 range with 64 points</h3>
       <hr><br>
       <img src="Test3A.png"><br>
-      <img src="Test3B.png"><br>
+      <img src="Test3B.PNG"><br>
     </div>
     </div>
 
