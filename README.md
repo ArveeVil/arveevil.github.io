@@ -157,7 +157,7 @@ html {
 <div class="row">
   <div class="leftcolumn">
       <div class="card">
-      <h2>Past Education</h2><hr><br>
+      <h2>Past Education</h2>
       <strong>Student Number</strong>
       <p>S3776250</p>
       <strong>Student Email</strong>
@@ -251,7 +251,7 @@ Because of the course being online, there are some areas, specially hands-on one
 
   <div class="leftcolumn">
       <div class="card">
-      <h2>Key Skills</h2><hr><br>
+      <h2>Key Skills</h2><hr>
       <strong>Project Management</strong>
       <p>★★★★</p>
       <strong>Software Development</strong>
@@ -297,9 +297,9 @@ Because of the course being online, there are some areas, specially hands-on one
   <div class="leftcolumn">
       <div class="card">
       <h2>Myers Briggs Type Indicator</h2>
-      <h3>My personality type is Advocate (INFG-T)</h3>
+      <h3>My result is Advocate (INFG-T)</h3>
       <hr><br><br>
-      <img src="Test1.png" width="270" height="754"><br>
+      <img src="Test1.png" width="270" height="350"><br>
     </div>
     
 <div class="card">
@@ -322,7 +322,7 @@ Because of the course being online, there are some areas, specially hands-on one
     </div>
     <div class="row">
     <div class="card">
-      <h2>The Results</h2><hr><br>
+      <h2>The Results</h2><hr>
       <strong>What the results mean for me?</strong>
       <p>It means that I can be relatively unique since in the first test, it is considered to be rarest as an Advocate. One of the major factor for this is my combination of personality traits that makes them complex and quite versatile. Based on the other tests as well, my strengths comes passionately hard from creativity, imagination and sensitivity, which I truly believe I possess, that made it even better, as this will become useful for my ideal job in the future. However, I should note that I should be careful at times because being able to think in abstract doesn't mean I can use it in concretely real life.</p>
       <strong>Results influencing my behaviour in a team:</strong>
