@@ -304,11 +304,11 @@ Because of the course being online, there are some areas, specially hands-on one
     
 <div class="card">
       <h2>Test Website Links</h2>
-      <hr><strong>Personality-Type Site</strong>
-      <a href="https://www.16personalities.com/">Visit 16 Personalities Website</a>
-      <strong>Learning-Type Site</strong>
-      <a href="emtrain.eu/learning-styles">Visit Emtrain's Learning Style Quiz</a>
-      <strong>Creative-Type Site</strong>
+      <hr><strong>Personality-Type Site</strong><br>
+      <a href="https://www.16personalities.com/">Visit 16 Personalities Website</a><br><br>
+      <strong>Learning-Type Site</strong><br>
+      <a href="emtrain.eu/learning-styles">Visit Emtrain's Learning Style Quiz</a><br><br>
+      <strong>Creative-Type Site</strong><br>
       <a href="https://www.mindtools.com/pages/article/creativity-quiz.htm">Visit Mindtools' Creativity Quiz</a>
     </div>
     </div></div> 
