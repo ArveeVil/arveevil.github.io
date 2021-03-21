@@ -4,10 +4,11 @@
 <title>Arvee's e-Portfolio</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<link rel="stylesheet" type="text/css" href="https://github.com/ArveeVil/arveevil.github.io/blob/main/style.css">
+<link rel="stylesheet" type = "text/css" href="style.css">
 </style>
 </head>
-
+<body>
+	
 <div class="header">
   <h1>Arvee Joshua Villahermosa</h1>
   <p>E - P O R T F O L I O</p>
